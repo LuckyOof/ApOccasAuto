@@ -1,7 +1,0 @@
-D:\Cours 2eme anne\C#\AppliEchec\AppliEchec\AppliEchec\bin\Debug\AppliEchec.exe.config
-D:\Cours 2eme anne\C#\AppliEchec\AppliEchec\AppliEchec\bin\Debug\AppliEchec.exe
-D:\Cours 2eme anne\C#\AppliEchec\AppliEchec\AppliEchec\bin\Debug\AppliEchec.pdb
-D:\Cours 2eme anne\C#\AppliEchec\AppliEchec\AppliEchec\obj\Debug\AppliEchec.csproj.AssemblyReference.cache
-D:\Cours 2eme anne\C#\AppliEchec\AppliEchec\AppliEchec\obj\Debug\AppliEchec.csproj.CoreCompileInputs.cache
-D:\Cours 2eme anne\C#\AppliEchec\AppliEchec\AppliEchec\obj\Debug\AppliEchec.exe
-D:\Cours 2eme anne\C#\AppliEchec\AppliEchec\AppliEchec\obj\Debug\AppliEchec.pdb
